@@ -33,7 +33,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <br><br>
 
 <div align="center">
-  <img src="4.png" width="70%" title="workflow"><br>
+  <img src="4.png" width="100%" title="workflow"><br>
   <strong>Figure 4.</strong> User interface of our own annotation tool.
 </div>
 <br><br>
