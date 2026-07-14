@@ -39,7 +39,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <br><br>
 
 <div align="center">
-  <img src="5.png" width="100%" title="workflow"><br>
+  <img src="5.png" width="70%" title="workflow"><br>
   <strong>Figure 5.</strong> Objects used in the dataset. ((a): train & val; (b): test; (c) grasp execution)
 </div>
 <br><br>
